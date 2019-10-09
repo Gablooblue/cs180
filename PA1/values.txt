@@ -1,0 +1,32 @@
+Uniform Cost Search
+Test1
+- Nodes Expanded 107
+- Line Distance 887
+Test2
+- Nodes Expanded 82
+- Line Distance 531
+Test 3 
+- Nodes 81
+- Distance 525
+
+GBFS
+Test 1
+- Nodes 25
+- Distance 1550
+Test 2
+- Nodes 10
+- Distance 696
+Test 3
+- Nodes 9
+- Distance 524
+
+A*
+Test 1
+- Nodes 107
+- Distance 886
+Test 2
+- Nodes 83
+- Distance 530
+Test 3
+- Nodes 81
+- Distance 524
